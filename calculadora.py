@@ -1,4 +1,5 @@
 # Rodrigo Sá Teles Moraes - 494145
+# Data da atividade: 5/11/2024 às 14:40
 
 #Essa operação é a de soma
 def somar(a, b):
